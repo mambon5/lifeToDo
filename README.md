@@ -1,6 +1,6 @@
 # Interesting projects to do, they have a substantial ammount of happiness or usefulness in them. And are lengthy and good.
 
-#1. Create a messaging app to replace whatsupp and all the sort.
+# 1. Create a messaging app to replace whatsupp and all the sort.
 So that THERE IS a limited number of words and sentences that a user can send per week AND there is NO profile picture and you can send NO voice notes NOR videos. You can also send NO PICTURES.
 
 # 2. Erudite language draw. 
